@@ -1,5 +1,21 @@
 # Anotações da disciplina
 
+### Artigo IEEE
+<pre>
+Resumo
+Introdução
+  -> História
+  -> Problema
+  -> Forma como resolve
+  -> Exemplo
+Conclusão
+Referências
+
+Temas
+  -> Protocolo aloha (original e sloted)
+  -> Cssa (não 
+</pre>
+
 ### **Aula 1 (28/07/2026)**
 <pre>
   
