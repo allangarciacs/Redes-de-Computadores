@@ -65,7 +65,33 @@ LAN: Local Area Network
 WAN: Wide  Area Network
 
 SWITCH X HUB X ROTEADOR
+
+  Trazer resposta se acertar anulá uma questão da avaliação. IP: 200.30.128.0 255.255.248.0 - 8 salto.
+
+LAB1(150 PC)
+
+LAB2(500 PC)
+
+LAB3(50 PC)
+
+LAB4(1030 PC)
+
+LAB5(15 PC)
+
+Resposta :
+
+LAB1: Rede 200.30.130.0 — Broadcast 200.30.130.255
+
+LAB2: Rede 200.30.128.0 — Broadcast 200.30.129.255
+
+LAB3: Rede 200.30.131.0 — Broadcast 200.30.131.63
+
+LAB5: Rede 200.30.131.64 — Broadcast 200.30.131.95
+
+LAB4: não cabe na rede restante
   
 Modelo OSI x TCP/IP:
 </pre>
 <img width="838" height="550" alt="image" src="https://github.com/user-attachments/assets/d77aaed3-5a6a-40c0-bc6b-986ee2fe0d5f" />
+
+
